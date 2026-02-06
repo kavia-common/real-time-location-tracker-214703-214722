@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew assembleDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/real-time-location-tracker-214703-214722/android_mobile_app"
+}
